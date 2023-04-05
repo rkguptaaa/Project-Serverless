@@ -26,7 +26,7 @@ const MAX_IMAGE_SIZE = 1000000
 /* ENTER YOUR ENDPOINT HERE
    FILES UPLOADED TO MY ENDPOINT ARE AUTOMATICALLY DELETED EVERY FEW HOURS */
 
-const API_ENDPOINT = 'https://yldg9krng5.execute-api.us-east-1.amazonaws.com/default/uploadimageins3'
+const API_ENDPOINT = 'https://rs5ely6r48.execute-api.us-east-1.amazonaws.com/default/saveobjInto370'
 
 export default {
   name: 'app',
